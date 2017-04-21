@@ -1,0 +1,140 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.team24.uasdelivery.AboutFragment">
+
+    <ScrollView
+        android:id="@+id/userManualScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/aboutTextView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="UAS Delivery Verification System. Version: 1.0"
+            android:textColor="@android:color/black"/>
+
+        <TextView
+            android:id="@+id/aboutTextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Senior Design Project II. Team 24" />
+
+        <TextView
+            android:id="@+id/aboutTextView3"
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_height="wrap_content"
+            android:text="Wright State University. Spring 2017" />
+
+        <TextView
+            android:id="@+id/aboutTextView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Follow instructions provided in the user manual in order to verify delivery of your packages."
+            android:textColor="@android:color/black"/>
+
+        <Button
+            android:id="@+id/userManualButton"
+            android:layout_width="wrap_content"
+            android:text=" User Manual "
+            android:layout_height="wrap_content"
+            android:background="#3bcc28"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="15dp"/>
+
+
+            <LinearLayout
+                android:id="@+id/linearLayoutScrollView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center">
+                <TextView
+                    android:id="@+id/step1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text=""
+                    android:textColor="@android:color/black"/>
+                <TextView
+                    android:id="@+id/step1Description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/step2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text=""
+                    android:textColor="@android:color/black"/>
+                <TextView
+                    android:id="@+id/step2Description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/step3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text=""
+                    android:textColor="@android:color/black"/>
+                <TextView
+                    android:id="@+id/step3Description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/step4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text=""
+                    android:textColor="@android:color/black"/>
+                <TextView
+                    android:id="@+id/step4Description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/step5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text=""
+                    android:textColor="@android:color/black"/>
+                <TextView
+                    android:id="@+id/step5Description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+            </LinearLayout>
+
+
+
+    </LinearLayout>
+    </ScrollView>
+    </RelativeLayout>

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "812866189822",
+    "firebase_url": "https://uas-delivery.firebaseio.com",
+    "project_id": "uas-delivery",
+    "storage_bucket": "uas-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812866189822:android:f02f6dea3ef7ceeb",
+        "android_client_info": {
+          "package_name": "com.team24.uasdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812866189822-vc5if7fn4ftkg6j2v9iq5dejndj2idfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team24.uasdelivery",
+            "certificate_hash": "39f7693d5a473199da6752e430ecacfffb50522f"
+          }
+        },
+        {
+          "client_id": "812866189822-5ks27ou7g607a74i4e4b2bf9rd7p0sad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYby9Ds0I38XuL9If7kumvNKX4vd893g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812866189822-914v6rmthnpoujocl6474405onv3m7tt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kirill-Kultinov.UAS-Delivery"
+              }
+            },
+            {
+              "client_id": "812866189822-5ks27ou7g607a74i4e4b2bf9rd7p0sad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
