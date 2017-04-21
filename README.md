@@ -1,7 +1,9 @@
 # UAS Delivery Verification System
-UAS Delivery Verification System. Wright State. Spring 2017.
+Senior Design Project. UAS Delivery Verification System.
 Team 24:
   Carl Schmidt
   Justin Rutschilling
   Nathan Nichols
   Kirill Kultinov
+  
+Wright State University. Spring 2017.
