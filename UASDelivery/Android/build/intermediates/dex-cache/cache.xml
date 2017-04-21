@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_1d6e2ef888e29f7160b6f25c179685b0de5b8a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_28854b2503b263dd7b49d2ff261a929b8cbb7c51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_cc87376a294460b2b6ddcc747689573ea2a15ff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_4be59230ca38231383dd8e89147ca78efe320b78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_71f6d4da2335f28d08d06bda0ff3073be48b9097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_172e433bc11a808590ba663931ec4f57a7d2abe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_73a4327fabfa9b05ad2505a98673b065aacf1c59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_c271c8d40b122ad4f3b4121c5ca7d09bb556ff92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_231e40bfa250f8d4f96d8629d99b20624e65d55f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_316ec07beb2633ed0fde59be99351699a13e16ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_e9a0dc2172fabf27fc89d35790a418919d2803f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_28240f0e6bc7464a3807633a04fdbf4ab62b64f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_b80a15c4e949092280a9d161cbbbbfa5fc772956/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_dc8ad84f0e0fb4dd6ee5a43db39516b2531f9cb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_d3657a6cc36a2ff490de6a8a9f4d60c4833d7ba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_cfb3c32914c2e8e7f5518ccdb07ebafa09888a62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_c101155d30f3d9c2aef604965ca96496b518c3f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_9f6fb641a6360a3840ffdec65870a24295d9d4de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_47f9b386216f545550ef9b321e028ac4ce6333ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_d6d4b33f6cfd18c765eb91bec0a7d451523bd9a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_f5c06cf6f7ba39aa9c8db27eb5a24eeb45d1b9e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_92a4b9999d6ed3d9248026a268124e9805830394/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_f3c750b746897a71900d316c992e91cc98f8ed48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ad828e0fefea9af1f25fd7479ac1714bad290179">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b9f0259706166f4150e27ba637a920130a04c784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d76ac9c20e3d7ac5a2ed610eaf1846f6057d986">
+        <dex dex="/Users/kirill/Documents/AndroidApps/AndroidProjects/UASDelivery/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_27b14e7589f77a72eacc8fbccaa316fe4b26f7b4/classes.dex" />
+    </item>
+
+</items>
